@@ -4,6 +4,8 @@ body {
   margin: 0px;
   text-align: justify;
   background-image: url(big-graph.png);
+  background-position: center;
+  background-position-y: top;
 }
 
 p:first-letter {
