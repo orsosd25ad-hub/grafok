@@ -41,3 +41,13 @@ h3 {
 a {
   color: red;
 }
+
+.container {
+  border: 1px solid #FF0000;
+  background-color: #FFFFFF;
+  float: right;
+  margin-left: 20px;
+  padding: 10px;
+  width: 400px;
+  height: auto;
+}
